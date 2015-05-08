@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="langs">
+        <item>LV</item>
+        <item>EE</item> 
+        <item>BY</item>
+    </string-array>
+
+</resources>

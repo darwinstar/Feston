@@ -1,0 +1,4 @@
+include ':fadingLibrary', ':android-support-v7-appcompat', ':nineoldandroids-2.4.0', ':picasso-2.3.2', ':sqliteassethelper-2.0.1', ':android-support-v4'
+include ':noFadingLibrary'
+include ':library'
+include ':feston'

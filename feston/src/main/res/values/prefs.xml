@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="GET_PREFS">GET_PREFS</string>
+    <string name="Last_updated">Last_updated</string>
+    <string name="tutorial">TUTORIAL</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Salsa festival</string>
+
+    <string name="LINE_UP">Line up</string>
+    <string name="add_to_schedule">Add to My Schedule</string>
+    <string name="delete_from_schedule">Delete from My Schedule</string>
+    <string name="MAP">Map</string>
+    <string name="FLASHLIGHT">Flashlight</string>
+    <string name="TICKETS">Tickets</string>
+    <string name="GETTING_THERE">Getting there</string>
+    <string name="ACCOMMODATION">Accommodation</string>
+    <string name="FAQ">FAQ</string>
+    <string name="NEWS">News</string>
+    <string name="SPONSORS">Sponsors</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="Artists">Artists</string>
+    <string name="Stages">Stages</string>
+    <string name="MySchedule">My Schedule</string>
+    <string name="please_connect">Data updates requires internet connection</string>
+    <string name="progress_message">It may take several minutes. Please wait...</string>
+    <string name="please_wait">Downloading Data</string>
+    <string name="touchScreen">Touch the screen</string>
+    <string name="TicketsText">At the moment you can buy tickets via Lithuanian seller TIKETA or Latvian seller BILESUSERVISS. Resident Advisor Tickets for customers in the rest of the world coming ASAP. Click on the corresponding image below! </string>
+
+</resources>

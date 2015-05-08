@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionBarBackground">#e3c276</color>
+    <color name="sattaBackground">#f4e3aa</color>
+    <color name="sattaDark">#171728</color>
+    <color name="actionbarBackgroundDark">#d7b870</color>
+</resources>

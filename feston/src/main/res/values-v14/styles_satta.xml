@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     File created by the Android Action Bar Style Generator
+
+     Copyright (C) 2011 The Android Open Source Project
+     Copyright (C) 2012 readyState Software Ltd
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+  
+          http://www.apache.org/licenses/LICENSE-2.0
+  
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+
+    <style name="Theme.Satta" parent="@style/Theme.AppCompat.Light">
+        <item name="android:actionBarItemBackground">@drawable/selectable_background_satta</item>
+        <item name="android:popupMenuStyle">@style/PopupMenu.Satta</item>
+        <item name="android:dropDownListViewStyle">@style/DropDownListView.Satta</item>
+        <item name="android:actionBarTabStyle">@style/ActionBarTabStyle.Satta</item>
+        <item name="android:actionDropDownStyle">@style/DropDownNav.Satta</item>
+        <item name="android:actionBarStyle">@style/ActionBar.Solid.Satta</item>
+        <item name="android:actionModeBackground">@drawable/cab_background_top_satta</item>
+        <item name="android:actionModeSplitBackground">@drawable/cab_background_bottom_satta</item>
+        <item name="android:actionModeCloseButtonStyle">@style/ActionButton.CloseMode.Satta</item>
+        <item name="vpiTabPageIndicatorStyle">@style/CustomTabPageIndicator</item>
+    </style>
+
+    <style name="CustomTabPageIndicator">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/tab_indicator_ab_satta</item>
+        <item name="android:paddingTop">12dp</item>
+        <item name="android:paddingBottom">12dp</item>
+        <item name="android:textAppearance">@style/TextAppearance.TabPageIndicator</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:textColor">@color/sattaDark</item>
+    </style>
+
+    <style name="ActionBar.Solid.Satta" parent="@style/Widget.AppCompat.Light.ActionBar.Solid">
+        <item name="android:background">@drawable/ab_solid_satta</item>
+        <item name="android:backgroundStacked">@drawable/ab_stacked_solid_satta</item>
+        <item name="android:backgroundSplit">@drawable/ab_bottom_solid_satta</item>
+        <item name="android:progressBarStyle">@style/ProgressBar.Satta</item>
+    </style>
+
+    <style name="ActionBar.Transparent.Satta" parent="@style/Widget.AppCompat.Light.ActionBar">
+        <item name="android:background">@drawable/ab_transparent_satta</item>
+        <item name="android:progressBarStyle">@style/ProgressBar.Satta</item>
+    </style>
+
+    <!-- this style is only referenced in a Light.DarkActionBar based theme -->
+    <style name="Theme.Satta.Widget" parent="@style/Theme.AppCompat">
+        <item name="android:popupMenuStyle">@style/PopupMenu.Satta</item>
+        <item name="android:dropDownListViewStyle">@style/DropDownListView.Satta</item>
+    </style>
+
+</resources>

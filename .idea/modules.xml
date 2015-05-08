@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Feston1.iml" filepath="$PROJECT_DIR$/Feston1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-support-v4/android-support-v4.iml" filepath="$PROJECT_DIR$/android-support-v4/android-support-v4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-support-v7-appcompat/android-support-v7-appcompat.iml" filepath="$PROJECT_DIR$/android-support-v7-appcompat/android-support-v7-appcompat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fadingLibrary/fadingLibrary.iml" filepath="$PROJECT_DIR$/fadingLibrary/fadingLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feston/feston.iml" filepath="$PROJECT_DIR$/feston/feston.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nineoldandroids-2.4.0/nineoldandroids-2.4.0.iml" filepath="$PROJECT_DIR$/nineoldandroids-2.4.0/nineoldandroids-2.4.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/noFadingLibrary/noFadingLibrary.iml" filepath="$PROJECT_DIR$/noFadingLibrary/noFadingLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/picasso-2.3.2/picasso-2.3.2.iml" filepath="$PROJECT_DIR$/picasso-2.3.2/picasso-2.3.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqliteassethelper-2.0.1/sqliteassethelper-2.0.1.iml" filepath="$PROJECT_DIR$/sqliteassethelper-2.0.1/sqliteassethelper-2.0.1.iml" />
+    </modules>
+  </component>
+</project>
+
